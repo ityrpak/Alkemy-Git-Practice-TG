@@ -2,3 +2,6 @@
 // Canada
 // Australia
 // Francia
+// España
+// Alemania
+// Japon
